@@ -1,0 +1,4 @@
+src/*_model
+src/*BoW
+src/vendor
+src/composer.lock
